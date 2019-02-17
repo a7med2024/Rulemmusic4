@@ -1,6 +1,6 @@
 owner=349906494822547471
-prefix= 4
-game= Type 4 help
+prefix= Fu
+game= Type Fu help
 stayinchannel=true
 songinstatus=true 
 token=NTI3ODQ2NTk1MzQ2MDM4ODA0.DwZrCA.CcHVTIn1M0Eg-EcwTiqxlEifYX4
