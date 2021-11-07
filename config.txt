@@ -3,4 +3,4 @@ prefix= Fu
 game= Type Fu help
 stayinchannel=true
 songinstatus=true 
-token=NTI3ODQ2NTk1MzQ2MDM4ODA0.DwZrCA.CcHVTIn1M0Eg-EcwTiqxlEifYX4
+token=OTA2OTAzNDcxMTQyMzY3Mjcy.YYfZrA.UvQPHfBGgzlVESIPTXkkDfgpilY
